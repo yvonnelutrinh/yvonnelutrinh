@@ -19,7 +19,9 @@
         </ul>
         <div style="display:flex; gap:1rem; align-content:center; margin: 1rem 0 0 0;">
             <h2 style="font-weight:bold; font-size:1rem; margin:auto 0; border-bottom: none;">let’s connect ⤸</h2>
-            <img style="height:2rem;" href="https://www.linkedin.com/in/yvonnelutrinh/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+            <a href="https://www.linkedin.com/in/yvonnelutrinh/">
+                <img style="height:2rem;" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+            </a>
         </div>
     </summary>
 </div>
