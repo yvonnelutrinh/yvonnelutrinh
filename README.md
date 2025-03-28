@@ -1,6 +1,6 @@
 <div id="toc">
     <summary>
-        <h1 style="border-bottom: none;"> howdy, i'm yve ੭⁾⁾</h1>
+        <h1 style="border-bottom: none;">howdy, i'm yve ੭⁾⁾</h1>
         <p>I'm a digital creative who thrives at the intersection of creativity and engineering. Recently, I completed a diploma in Software Engineering at BrainStation, where I got to build fun projects and user-focussed experiences. Now I'm off to learn more tools! </p>
         <h2 style="font-weight:bold; font-size:1rem; margin:auto 0; border-bottom: none;">what i'm learning ᝰ</h2>
         <ul>
