@@ -3,7 +3,7 @@
 I'm a developer + designer who thrives at the intersection of creativity, strategy, & engineering.
 
 ### what i’m working on ⚙
-&nbsp;&nbsp;&nbsp;&nbsp;✧ a browser extension in Next.js  
+&nbsp;&nbsp;&nbsp;&nbsp;✧ a web app + browser extension in Next.js  
 &nbsp;&nbsp;&nbsp;&nbsp;✧ portfolio website
 
 
