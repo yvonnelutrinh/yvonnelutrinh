@@ -1,27 +1,52 @@
-<div id="toc">
-    <summary>
-        <h1 style="border-bottom: none;">howdy, i'm yve ੭⁾⁾</h1>
-        <p>I'm a digital creative who thrives at the intersection of creativity and engineering. Recently, I completed a diploma in Software Engineering at BrainStation, where I got to build fun projects and user-focussed experiences. Now I'm off to learn more tools! </p>
-        <h2 style="font-weight:bold; font-size:1rem; margin:auto 0; border-bottom: none;">what i'm learning ᝰ</h2>
-        <ul>
-            <li style="font-weight:400;">✦ Advanced React patterns, performance optimization
-            <li>✦ TypeScript, Python, Next, Tailwind
-            <li>✦ Backend development with PostgreSQL, Django
-            <li>✦ Fully fledged testing with Playwright, Cucumber
-            <li>✦ Cloud computing and deployment strategies with k8s
-        </ul>
-        <h2 style="font-weight:bold; font-size:1rem; margin-top:1rem; margin-bottom:-1rem; border-bottom: none;">irl interests ☁︎</h2>
-        <ul>
-            <li>⟡ DJ</li>
-            <li>⟡ Snowboarding</li>
-            <li>⟡ Sound baths</li>
-            <li>⟡ Foraging</li>
-        </ul>
-        <div style="display:flex; gap:1rem; align-content:center; margin: 1rem 0 0 0;">
-            <h2 style="font-weight:bold; font-size:1rem; margin:auto 0; border-bottom: none;">let’s connect ⤸</h2>
-            <a href="https://www.linkedin.com/in/yvonnelutrinh/" target="_blank" rel="noopener noreferrer">
-                <img style="height:2rem;" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-            </a>
-        </div>
-    </summary>
-</div>
+<h1>howdy, i'm yve ੭⁾⁾</h1>
+
+I'm a developer + designer who thrives at the intersection of creativity, strategy, & engineering.
+
+### what i’m working on ⚙
+✧ a browser extension in Next.js  
+✧ portfolio website
+
+
+### what i'm learning ᝰ
+&nbsp;&nbsp;&nbsp;&nbsp;✦ Advanced React patterns, performance optimization  
+&nbsp;&nbsp;&nbsp;&nbsp;✦ TypeScript, Python, Next, Tailwind  
+&nbsp;&nbsp;&nbsp;&nbsp;✦ Backend development with PostgreSQL, Django  
+&nbsp;&nbsp;&nbsp;&nbsp;✦ Fully fledged testing with Playwright, Cucumber  
+&nbsp;&nbsp;&nbsp;&nbsp;✦ Cloud computing and deployment strategies with k8s  
+
+### let’s connect ⤸ 
+<p align="left">
+  <a href="https://linkedin.com/in/yvonnelutrinh" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="25" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:yvonnelutrinh@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="25" width="25" />
+  </a>
+</p>
+
+### languages and tools ⚒
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="35" height="35"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yvonnelutrinh&show_icons=true&locale=en&layout=compact" alt="Top Languages" draggable="false" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=yvonnelutrinh&show_icons=true&locale=en&hide_rank=true&hide=issues" alt="GitHub Stats" draggable="false" />&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yvonnelutrinh" alt="GitHub Streak" draggable="false" />
+</p>
