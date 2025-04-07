@@ -16,10 +16,10 @@ I'm a developer + designer who thrives at the intersection of creativity, strate
 
 ### let’s connect ⤸ 
 <p align="left">
-  <a href="https://linkedin.com/in/yvonnelutrinh" target="_blank">
+  <a href="https://linkedin.com/in/yvonnelutrinh" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="25" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:yvonnelutrinh@gmail.com" target="_blank">
+  <a href="mailto:yvonnelutrinh@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="25" width="25" />
   </a>
 </p>
