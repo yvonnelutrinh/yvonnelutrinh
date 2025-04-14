@@ -4,7 +4,8 @@ I'm a developer + designer who thrives at the intersection of creativity, strate
 
 ### what i’m working on ⚙
 &nbsp;&nbsp;&nbsp;&nbsp;✧ a productivity web app + browser extension in Next.js  
-&nbsp;&nbsp;&nbsp;&nbsp;✧ portfolio website: https://yvonnelutrinh.com/
+&nbsp;&nbsp;&nbsp;&nbsp;✧ portfolio website: [yvonnelutrinh.com](https://yvonnelutrinh.com/)
+
 
 
 ### what i'm learning ᝰ
