@@ -4,9 +4,6 @@ I'm a developer + designer who thrives at the intersection of creativity, strate
 
 ### what i’m working on
 &nbsp;&nbsp;&nbsp;&nbsp;✧ AI-powered CLI tool that turns business requests into data models and SQL schemas.
-&nbsp;&nbsp;&nbsp;&nbsp;✧ updating my portfolio website: [yvonnelutrinh.com](https://yvonnelutrinh.com/)
-
-
 
 ### what i'm learning
 &nbsp;&nbsp;&nbsp;&nbsp;✦ Advanced React patterns, performance optimization  
