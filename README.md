@@ -3,8 +3,8 @@
 I'm a developer + designer who thrives at the intersection of creativity, strategy, & engineering.
 
 ### what i’m working on
-&nbsp;&nbsp;&nbsp;&nbsp;✧ a productivity web app + browser extension in Next.js  
-&nbsp;&nbsp;&nbsp;&nbsp;✧ portfolio website: [yvonnelutrinh.com](https://yvonnelutrinh.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;✧ AI-powered CLI tool that turns business requests into data models and SQL schemas.
+&nbsp;&nbsp;&nbsp;&nbsp;✧ updating my portfolio website: [yvonnelutrinh.com](https://yvonnelutrinh.com/)
 
 
 
