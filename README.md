@@ -4,12 +4,16 @@ I'm a developer + designer who thrives at the intersection of creativity, strate
 
 ### what i’m working on
 &nbsp;&nbsp;&nbsp;&nbsp;✧ maintaining and building software for mission-driven orgs
+
 &nbsp;&nbsp;&nbsp;&nbsp;✧ an AI-powered career assistant
 
 ### what i'm learning
 &nbsp;&nbsp;&nbsp;&nbsp;✦ Advanced React patterns, performance optimization
+
 &nbsp;&nbsp;&nbsp;&nbsp;✦ Backend development with PostgreSQL, Django  
+
 &nbsp;&nbsp;&nbsp;&nbsp;✦ Fully fledged testing with Playwright, Cucumber  
+
 &nbsp;&nbsp;&nbsp;&nbsp;✦ Cloud computing and deployment strategies with k8s  
 
 ### let’s connect
